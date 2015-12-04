@@ -143,7 +143,7 @@
 				    </p>
 					<ul class="actions uniform">
 						<li><a href="http://www.reh.tw" class="button special" target="_blank">REH.TW 團隊官網</a></li>
-						<li><a href="#" class="button" target="_blank">GitHub</a></li>
+						<li><a href="https://github.com/GoneTone/PocketMine-MP-Plugin-Development-website" class="button" target="_blank">GitHub</a></li>
 					</ul>
 				</div>
 			</section>
@@ -473,8 +473,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 				<ul class="icons">
 					<li><a href="https://twitter.com/p290227161" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 					<li><a href="https://www.facebook.com/reh.tw.sw" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon alt fa-github"><span class="label" target="_blank">GitHub</span></a></li>
-					<li><a href="mailto:team@reh.tw" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+					<li><a href="https://github.com/GoneTone/PocketMine-MP-Plugin-Development-website" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+					<li><a href="mailto:team@reh.tw" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li><?php include("http://www.reh.tw/php/copyright.php"); ?> <a href="http://reh.tw" target="_blank">REH.TW</a></li><li>All rights reserved.</li><br>
