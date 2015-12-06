@@ -49,7 +49,7 @@
 							        <li>製作一個ZIP壓縮文件並將你的文件放進去</li>
 							        <li>最後，開始上傳文件(注意，生成完畢後點擊藍色的here下載)</li>
 							    </ol>
-								<form method="post" action="http://pmt.mcpe.me/phar-result.php" enctype="multipart/form-data">
+								<form method="post" action="http://pmt.mcpe.me/phar-result.php" target="_blank" enctype="multipart/form-data">
 								    <p><input type="file" name="file"></p>
 							</p>
 						</div>
@@ -99,7 +99,7 @@
 								<h2>phar解包</h2>
 							</header>
 							<p>
-							    <form method="post" action="http://pmt.mcpe.me/unpharResult.php" enctype="multipart/form-data">
+							    <form method="post" action="http://pmt.mcpe.me/unpharResult.php" target="_blank" enctype="multipart/form-data">
 							        <p>在這裡上傳phar文件：<br><input type="file" name="file" accept=".phar"></p>
 							        <p><input type="submit" value="解包"></p>
 							    </form>
@@ -116,7 +116,7 @@
 						<h2><code>var_dump</code> 調試輸出↓</h2>
 					</header>
 					<p>
-					    <form action="http://pmt.mcpe.me/varDumpResult.php" method="post"><input type="submit">&nbsp;請粘貼你的 <code>var_dump</code> 輸出在下方，並點擊提交按鈕.<br>
+					    <form action="http://pmt.mcpe.me/varDumpResult.php" target="_blank" method="post"><input type="submit">&nbsp;請粘貼你的 <code>var_dump</code> 輸出在下方，並點擊提交按鈕.<br>
 					        <b>警告: </b>確保你不會從轉換行結束如： <code>\r\n</code> to <code>\n/\r</code> 或者開始，如： <code>\n/\r</code> to <code>\r\n</code>!<br>
 					        <textarea name="jump" rows="30" cols="150"></textarea>
 					    </form>
